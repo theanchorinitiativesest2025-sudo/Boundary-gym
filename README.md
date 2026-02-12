@@ -73,4 +73,9 @@ Solo-built.
 
 ## License
 
-See LICENSE file.
+Copyright (c) 2026 Boundary Gym
+
+All rights reserved.
+
+This source code is proprietary and may not be copied, modified,
+or distributed without explicit permission from the author.
